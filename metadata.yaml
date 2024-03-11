@@ -1,0 +1,34 @@
+_repo: Sudenmorsian-b-Hiidenmaalainen-tarina_73095
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kallas, Aino
+    aliases:
+    - Krohn, Aino
+    - Kallas, Aino Krohn
+    - Suonio, Aino
+    birthdate: 1878
+    deathdate: 1956
+    gutenberg_agent_id: '48577'
+    url: http://www.gutenberg.org/2009/agents/48577
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Aino_Kallas
+    - https://en.wikipedia.org/wiki/Aino_Kallas
+description: ''
+gutenberg_issued: '2024-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73095'
+language: fi
+pgterms:marc905: 20231127090323kallas
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bOtava, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sudenmorsian : $b Hiidenmaalainen tarina'
+url: http://www.gutenberg.org/ebooks/73095
